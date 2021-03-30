@@ -1,3 +1,4 @@
+# 알파벳 최빈값 찾기
 def find_alphabet_occurrence_array(string):
     alphabet_occurrence_array = [0] * 26
 
