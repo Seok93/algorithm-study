@@ -19,6 +19,7 @@ class LinkedList:
             print(cur.data)
             cur = cur.next
 
+    # 특정 노드 출력
     def get_node(self, index):
         node = self.head
         count = 0

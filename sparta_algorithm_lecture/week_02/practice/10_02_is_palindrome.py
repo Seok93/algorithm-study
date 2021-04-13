@@ -1,3 +1,5 @@
+# 재귀함수를 이용한 회문검사 구현
+
 input = "abcba"
 
 def is_palindrome(string):
