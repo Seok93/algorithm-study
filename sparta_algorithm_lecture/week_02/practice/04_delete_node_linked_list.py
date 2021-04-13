@@ -40,6 +40,8 @@ class LinkedList:
         node.next = new_node
         new_node.next = next_node
 
+    # 노드 삭제
+    # 똑같이 index-1 연산을 보고 index가 0인 경우의 처리를 생각해봐야한다.
     def delete_node(self, index):
         if index == 0:
             self.head = self.head.next

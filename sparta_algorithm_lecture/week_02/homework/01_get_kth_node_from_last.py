@@ -1,3 +1,5 @@
+# Q. 링크드 리스트의 끝에서 K번째 값을 반환하시오.
+
 class Node:
     def __init__(self, data):
         self.data = data
