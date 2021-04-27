@@ -24,15 +24,13 @@ class MaxHeap:
     # 6. 그리고 2번에 저장해둔 노드를 반환한다.
     def delete(self):
         # 루트 노드와 마지막 노드의 교체
-        root_idx = 1
-        last_idx = len(self.items) - 1
-        self.items[root_idx], self.items[last_idx] = self.items[last_idx], self.items[root_idx]
+        self.items[1], self.items[-1] = self.items[-1], self.items[1]
 
         # 마지막 대상 제거
         delete_node = self.items.pop()
-        last_idx = last_idx - 1
+        last_idx = len(self.items) - 1
 
-        cur_idx = root_idx
+        cur_idx = 1
         while last_idx >= cur_idx:
             target_idx = None
             left_child_idx = cur_idx * 2
