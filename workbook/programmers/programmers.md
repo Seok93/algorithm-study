@@ -47,4 +47,5 @@
 
 #### 연습문제
 ##### Level2
-- [x] 2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링
+- [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- [x] [찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
