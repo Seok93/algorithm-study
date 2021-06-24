@@ -29,12 +29,14 @@
 
 ### 해답코드
 ```python
+# python 풀이
 def solution(s):
     arr = sorted([int(target) for target in s.split(' ')])
     return ' '.join([str(arr[0]), str(arr[-1])])
 ```
 
 ```js
+// JS 풀이
 function solution(str) {
     return str
         .split(' ')
