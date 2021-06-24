@@ -51,3 +51,4 @@
 - [x] [찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./practice/level2/게임%20맵%20최단거리/problem.md)
 - [x] [2017 팁스타운 > 짝지어 제거하기](./practice/level2/짝지어%20제거하기/problem.md)
 - [x] [JadenCase 문자열 만들기](./practice/level2/JadenCase%20문자열%20만들기/problem.md)
+- [x] [최댓값과 최솟값](./practice/level2/최댓값과%20최솟값/problem.md)
