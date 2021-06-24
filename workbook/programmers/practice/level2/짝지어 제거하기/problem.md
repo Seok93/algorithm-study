@@ -15,8 +15,8 @@ b aa baa → bb aa → aa →
 |s|result|
 |:---|:---|
 |baabaa|1|
-
 |cdcd|0|
+
 입출력 예 설명
 입출력 예 #1
 위의 예시와 같습니다.
