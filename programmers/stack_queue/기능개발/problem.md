@@ -46,7 +46,7 @@
 
 이것을 보고 작업별(job)로 하루의 작업속도(speed)를 진척도(progress)에 반영하고, 그 이후에 작업이 완성되었는지, 선행하는 작업도 같이 완료되었는지를 판단해주기로 했다. 
 
-### 알고리즘 순서
+### 📔 알고리즘 순서
 1\) progress와 speed를 묶어서 하나의 작업(job)으로 만들기
 ```python
 jobs = [{"progress": progress, "speed":speed} for progress, speed in zip(progresses, speeds)]
@@ -80,6 +80,7 @@ if count > 0:
 
 ### 해답코드
 ```python
+# python 코드
 def solution(progresses, speeds):
     answer = []
     
@@ -107,4 +108,37 @@ def solution(progresses, speeds):
             answer.append(count)
         
     return answer
+```
+
+```javascript
+// JS 코드
+function solution(progresses, speeds) {
+    let answer = [];
+
+    while(progresses.length > 0) {
+        let count = 0;
+        
+        // 1. 하루 작업량 반영
+        for(let i = 0; i < progresses.length; i++) {
+            progresses[i] += speeds[i];    
+        }
+        
+        // 2. 작업 완성 확인
+        for(let i = 0; i < progresses.length; i++) {
+            if(progresses[i] < 100) break;
+            count += 1;
+        }
+        
+        // 3. 완성된 작업 삭제 
+        if(count > 0) {
+            answer.push(count);
+            for(let i = 0; i < count; i++) {
+                progresses.shift();
+                speeds.shift();
+            }
+        }
+    }
+    
+    return answer;
+}
 ```
