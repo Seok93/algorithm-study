@@ -1,5 +1,5 @@
 ## ✨ 스택/큐
-프로그래머스 코딩테스트 연습 [Level2 **프린터** 문제](https://programmers.co.kr/learn/courses/30/lessons/42587) 
+[Level2 **프린터** 문제](https://programmers.co.kr/learn/courses/30/lessons/42587) 
 
 ### 📘 문제 설명
 일반적인 프린터는 인쇄 요청이 들어온 순서대로 인쇄합니다. 그렇기 때문에 중요한 문서가 나중에 인쇄될 수 있습니다. 이런 문제를 보완하기 위해 중요도가 높은 문서를 먼저 인쇄하는 프린터를 개발했습니다. 이 새롭게 개발한 프린터는 아래와 같은 방식으로 인쇄 작업을 수행합니다.
@@ -40,7 +40,7 @@
 3\) `내가 인쇄를 요청한 문서가 몇 번째로 인쇄되는지 return 하도록 solution 함수를 작성해주세요`를 보면 프린터의 처음 작업순서를 기억하여 인쇄를 요청한 문서가 출력될 때를 잡아내야한다.
 
 
-### 알고리즘 순서
+### 📔 알고리즘 순서
 1\) 프린터 내의 대기목록의 순서를 기억시킨다.
 ```python
 jobs = [{"order": order, "priority": priority} for order, priority in enumerate(priorities)]
@@ -63,6 +63,7 @@ while jobs:
 
 ### 해답코드
 ```python
+# python
 def solution(priorities, location):
     # 처음 위치 순서 등록하기
     jobs = [{"order": order, "priority": priority} for order, priority in enumerate(priorities)]
@@ -79,4 +80,25 @@ def solution(priorities, location):
             count += 1
             if target["order"] == location:
                 return count
+```
+
+```javascript
+// javascript
+function solution(priorities, location) {
+    let answer = 0;
+    const queue = priorities.map((priority, location) => ({priority, location}));
+    
+    while(queue.length > 0) {
+        const target = queue.shift();
+        const hasHighPriority = queue.some(v => v.priority > target.priority);
+
+        if(hasHighPriority) {
+            queue.push(target);   
+        }else {
+            answer += 1;
+            if(target.location === location) break;
+        }
+    }
+    return answer;
+}
 ```
