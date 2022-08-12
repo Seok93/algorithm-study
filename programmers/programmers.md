@@ -12,7 +12,7 @@
 - [x] Level2 [프린터](./stack_queue/프린터/problem.md)
 - [x] Level2 [다리를 지나는 트럭](./stack_queue/다리를지나는트럭/problem.md)
 - [ ] Level2 [주식가격]()
-- [ ] Level2 [올바른 괄호]()
+- [x] Level2 [올바른 괄호](./stack_queue/올바른괄호/problem.md)
 
 ### 📝힙(Heap)
 - [ ]
