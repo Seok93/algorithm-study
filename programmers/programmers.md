@@ -2,7 +2,7 @@
 ## 📖 코딩테스트 고득점 Kit 문제
 ### 📝해시
 - [x] Level1 [폰켓몬](./hash/폰켓몬/problem.md)
-- [ ] Level1 [완주하지 못한 선수]()
+- [x] Level1 [완주하지 못한 선수](./hash/완주하지못한선수/problem.md)
 - [x] Level2 [전화번호목록](./hash/전화번호%20목록/problem.md)
 - [x] Level2 [위장](./hash/위장/problem.md)
 - [ ] Level3 [베스트앨범]()
