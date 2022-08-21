@@ -5,7 +5,7 @@
 - [x] Level1 [완주하지 못한 선수](./hash/완주하지못한선수/problem.md)
 - [x] Level2 [전화번호목록](./hash/전화번호%20목록/problem.md)
 - [x] Level2 [위장](./hash/위장/problem.md)
-- [ ] Level3 [베스트앨범]()
+- [x] Level3 [베스트앨범](./hash/베스트앨범/problem.md)
 
 ### 📝스택/큐
 - [x] Level1 [같은 숫자는 싫어](./stack_queue/같은숫자는싫어/problem.md)
@@ -16,7 +16,7 @@
 - [x] Level2 [올바른 괄호](./stack_queue/올바른괄호/problem.md)
 
 ### 📝힙(Heap)
-- [ ] Level2 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+- [ ] Level2 [더 맵게](**https**://school.programmers.co.kr/learn/courses/30/lessons/42626)
 - [ ] Level3 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 - [ ] Level3 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
