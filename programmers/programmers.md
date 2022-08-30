@@ -21,7 +21,7 @@
 - [ ] Level3 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 ### 📝정렬
-- [ ] Level1 [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+- [x] Level1 [K번째수](./sort/K번째수/problem.md)
 - [ ] Level2 [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 - [ ] Level2 [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 
