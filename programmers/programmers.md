@@ -23,7 +23,7 @@
 ### 📝정렬
 - [x] Level1 [K번째수](./sort/K번째수/problem.md)
 - [x] Level2 [가장 큰 수](./sort/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98/problem.md)
-- [ ] Level2 [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- [x] Level2 [H-Index](./sort/H-index/problem.md)
 
 ### 📝완전탐색
 - [ ] Level1 [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
