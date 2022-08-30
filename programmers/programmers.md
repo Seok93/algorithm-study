@@ -16,8 +16,8 @@
 - [x] Level2 [올바른 괄호](./stack_queue/올바른괄호/problem.md)
 
 ### 📝힙(Heap)
-- [ ] Level2 [더 맵게](**https**://school.programmers.co.kr/learn/courses/30/lessons/42626)
-- [ ] Level3 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+- [ ] Level2 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+- [x] Level3 [디스크 컨트롤러](./heap/디스크컨트롤러/problem.md)
 - [ ] Level3 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 ### 📝정렬
