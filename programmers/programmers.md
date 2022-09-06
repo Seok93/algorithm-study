@@ -26,7 +26,7 @@
 - [x] Level2 [H-Index](./sort/H-index/problem.md)
 
 ### 📝완전탐색
-- [ ] Level1 [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+- [x] Level1 [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 - [x] Level1 [최소직사각형](./brute-force/최소직사각형/problem.md)
 - [ ] Level2 [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
 - [ ] Level2 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
