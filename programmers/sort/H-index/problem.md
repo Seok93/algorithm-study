@@ -1,4 +1,4 @@
-## ✨ 해시
+## ✨ 정렬
 [Level2 **H-index** 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) 
 
 ### 📘 문제 설명

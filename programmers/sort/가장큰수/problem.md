@@ -1,4 +1,4 @@
-## ✨ 해시
+## ✨ 정렬
 [Level2 **가장 큰 수** 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746) 
 
 ### 📘 문제 설명

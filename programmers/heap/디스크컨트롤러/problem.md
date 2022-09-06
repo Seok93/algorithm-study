@@ -1,4 +1,4 @@
-## ✨ 해시
+## ✨ 힙
 [Level3 **디스크 컨트롤러** 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42627) 
 
 ### 📘 문제 설명

@@ -1,4 +1,4 @@
-## ✨ 해시
+## ✨ 정렬
 [Level1 **K번째수** 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748) 
 
 ### 📘 문제 설명
