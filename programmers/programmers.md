@@ -30,8 +30,8 @@
 - [x] Level1 [최소직사각형](./brute-force/최소직사각형/problem.md)
 - [x] Level2 [소수찾기](./brute-force/소수찾기/problem.md)
 - [ ] Level2 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
-- [ ] Level2 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
-- [x] Level2 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [x] Level2 [피로도](./brute-force/피로도/problem.md)
+- [x] Level2 [전력망을 둘로 나누기](./brute-force/전력망을둘로나누기/problem.md)
 - [x] Level2 [모음사전](./brute-force/모음사전/problem.md)
 
 ### 📝탐욕법(Greedy)
