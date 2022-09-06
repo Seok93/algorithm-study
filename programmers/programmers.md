@@ -32,7 +32,7 @@
 - [ ] Level2 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [ ] Level2 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 - [ ] Level2 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
-- [ ] Level2 [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [x] Level2 [모음사전](./brute-force/모음사전/problem.md)
 
 ### 📝탐욕법(Greedy)
 - [ ] Level1 [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
