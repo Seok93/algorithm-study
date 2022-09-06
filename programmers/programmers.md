@@ -27,7 +27,7 @@
 
 ### 📝완전탐색
 - [ ] Level1 [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
-- [ ] Level1 [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+- [x] Level1 [최소직사각형](./brute-force/최소직사각형/problem.md)
 - [ ] Level2 [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
 - [ ] Level2 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [ ] Level2 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
