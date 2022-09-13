@@ -38,7 +38,7 @@
 - [x] Level1 [체육복](./greedy/체육복/problem.md)
 - [ ] Level2 [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
 - [x] Level2 [큰 수 만들기](./greedy/큰수만들기/problem.md)
-- [ ] Level2 [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- [x] Level2 [구명보트](./greedy/구명보트/problem.md)
 - [ ] Level3 [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
 - [ ] Level3 [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 
