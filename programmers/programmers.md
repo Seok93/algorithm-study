@@ -35,7 +35,7 @@
 - [x] Level2 [모음사전](./brute-force/모음사전/problem.md)
 
 ### 📝탐욕법(Greedy)
-- [ ] Level1 [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+- [x] Level1 [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 - [ ] Level2 [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
 - [ ] Level2 [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 - [ ] Level2 [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
