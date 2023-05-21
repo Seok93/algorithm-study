@@ -63,6 +63,7 @@
 ### 📝Level 1
 - [x] [대충 만든 자판](./level1/대충만든자원/problem.md)
 - [x] [카드 뭉치](./level1/카드뭉치/problem.md)
+- [x] [둘만의 암호](./level1/둘만의암호/problem.md)
 
 ### 📝Level 2
 - [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)
