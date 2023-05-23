@@ -65,6 +65,7 @@
 - [x] [카드 뭉치](./level1/카드뭉치/problem.md)
 - [x] [둘만의 암호](./level1/둘만의암호/problem.md)
 - [x] [개인정보 수집 유효기간](./level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A7%91%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/problem.md)
+- [x] [문자열 나누기](./level1//%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%98%EB%88%84%EA%B8%B0/problem.md)
 
 ### 📝Level 2
 - [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)
