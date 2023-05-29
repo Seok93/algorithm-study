@@ -68,6 +68,7 @@
 - [x] [문자열 나누기](./level1//%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%98%EB%88%84%EA%B8%B0/problem.md)
 - [x] [기사단원의 무기](./level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0/problem.md) 
 - [x] [햄버거 만들기](./level1/%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0/problem.md)
+- [x] [옹알이2](./level1/%EC%98%B9%EC%95%8C%EC%9D%B42/problem.md) 
 
 ### 📝Level 2
 - [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)
