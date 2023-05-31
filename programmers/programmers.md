@@ -69,8 +69,9 @@
 - [x] [기사단원의 무기](./level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0/problem.md) 
 - [x] [햄버거 만들기](./level1/%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0/problem.md)
 - [x] [옹알이2](./level1/%EC%98%B9%EC%95%8C%EC%9D%B42/problem.md) 
-- [x] [신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md) 
 - [x] [숫자 짝궁](./level1/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%B6%81/problem.md)
+- [x] [2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md) 
+- [x] [2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md) 
 
 ### 📝Level 2
 - [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)
