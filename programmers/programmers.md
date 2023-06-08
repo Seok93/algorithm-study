@@ -1,13 +1,13 @@
 # 📚 프로그래머스 문제풀이
 ## 📖 코딩테스트 고득점 Kit 문제
-### 📝해시
+### 📝해시 (Hash)
 - [x] Level1 [폰켓몬](./hash/폰켓몬/problem.md)
 - [x] Level1 [완주하지 못한 선수](./hash/완주하지못한선수/problem.md)
 - [x] Level2 [전화번호목록](./hash/전화번호%20목록/problem.md)
 - [x] Level2 [위장](./hash/위장/problem.md)
 - [x] Level3 [베스트앨범](./hash/베스트앨범/problem.md)
 
-### 📝스택/큐
+### 📝스택/큐 (Stack / Queue)
 - [x] Level1 [같은 숫자는 싫어](./stack_queue/같은숫자는싫어/problem.md)
 - [x] Level2 [기능개발](./stack_queue/기능개발/problem.md)
 - [x] Level2 [프린터](./stack_queue/프린터/problem.md)
@@ -20,7 +20,7 @@
 - [x] Level3 [디스크 컨트롤러](./heap/디스크컨트롤러/problem.md)
 - [x] Level3 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
-### 📝정렬
+### 📝정렬 (sort)
 - [x] Level1 [K번째수](./sort/K번째수/problem.md)
 - [x] Level2 [가장 큰 수](./sort/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98/problem.md)
 - [x] Level2 [H-Index](./sort/H-index/problem.md)
@@ -71,6 +71,7 @@
 - [x] [옹알이2](./level1/%EC%98%B9%EC%95%8C%EC%9D%B42/problem.md)
 - [x] [시저 암호](./level1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/problem.md)
 - [x] [숫자 짝궁](./level1/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%B6%81/problem.md)
+- [x] [과일 장수](./level1/%EA%B3%BC%EC%9D%BC%EC%9E%A5%EC%88%98/problem.md)
 - [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)
 - [x] [2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md) 
 - [x] [2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md)
