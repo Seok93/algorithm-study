@@ -72,6 +72,7 @@
 - [x] [시저 암호](./level1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/problem.md)
 - [x] [숫자 짝궁](./level1/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%B6%81/problem.md)
 - [x] [과일 장수](./level1/%EA%B3%BC%EC%9D%BC%EC%9E%A5%EC%88%98/problem.md)
+- [x] [푸드 파이트 대회](./level1/%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C/problem.md) 
 - [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)
 - [x] [2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md) 
 - [x] [2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md)
