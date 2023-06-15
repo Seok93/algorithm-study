@@ -61,28 +61,32 @@
 ---
 ## 📖 연습문제
 ### 📝Level 1
-- [x] [대충 만든 자판](./level1/대충만든자원/problem.md)
-- [x] [카드 뭉치](./level1/카드뭉치/problem.md)
-- [x] [둘만의 암호](./level1/둘만의암호/problem.md)
-- [x] [개인정보 수집 유효기간](./level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A7%91%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/problem.md)
-- [x] [문자열 나누기](./level1//%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%98%EB%88%84%EA%B8%B0/problem.md)
-- [x] [기사단원의 무기](./level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0/problem.md) 
-- [x] [햄버거 만들기](./level1/%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0/problem.md)
-- [x] [옹알이2](./level1/%EC%98%B9%EC%95%8C%EC%9D%B42/problem.md)
-- [x] [시저 암호](./level1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/problem.md)
-- [x] [숫자 짝궁](./level1/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%B6%81/problem.md)
-- [x] [과일 장수](./level1/%EA%B3%BC%EC%9D%BC%EC%9E%A5%EC%88%98/problem.md)
-- [x] [푸드 파이트 대회](./level1/%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C/problem.md) 
-- [x] [바탕화면 정리](./level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC/)
-- [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)
-- [x] [2019 KAKAO 개발자 겨울 인턴쉽](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)
-- [x] [2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md) 
-- [x] [2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md)
-- [x] [2022 KAKAO BLIND RECRUITMENT > 신고 결과 받기](./level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/problem.md) 
+|문제|다시 풀어보고 싶은 문제|비고|
+|:---|:---:|:---|
+|[카드 뭉치](./level1/카드뭉치/problem.md)|X| |
+|[둘만의 암호](./level1/둘만의암호/problem.md)|O| 특정 범위 안에서 순환하여 문자 등을 변환할 때 사용할 수 있는 방법|
+|[개인정보 수집 유효기간](./level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A7%91%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/problem.md)|O| |
+|[문자열 나누기](./level1//%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%98%EB%88%84%EA%B8%B0/problem.md)|X| |
+|[기사단원의 무기](./level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0/problem.md)|O| 약수를 찾는 다양한 방법|
+|[햄버거 만들기](./level1/%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0/problem.md)|O| Stack에서 특정 순서로 데이터가 쌓였는지 확인하는 방법 |
+|[대충 만든 자판](./level1/대충만든자원/problem.md)|O| |
+|[옹알이2](./level1/%EC%98%B9%EC%95%8C%EC%9D%B42/problem.md)|O|특정 단어들로 구성되어 있는 문장을 확인하는 방법|
+|[시저 암호](./level1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/problem.md)|X| |
+|[숫자 짝궁](./level1/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%B6%81/problem.md)|O|Set과 Map 객체의 활용 방법|
+|[과일 장수](./level1/%EA%B3%BC%EC%9D%BC%EC%9E%A5%EC%88%98/problem.md)|O|특정 단위로 묶을 때, 나머지 부분을 제거하여 반복 횟수를 이산적 데이터로 계산하는 법|
+|[푸드 파이트 대회](./level1/%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C/problem.md)|X| |
+|[바탕화면 정리](./level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC/problem.md)|O|2차원 배열의 좌표 이동 계산 방법|
+|[2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)|X| |
+|[2019 KAKAO 개발자 겨울 인턴쉽](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)|X| |
+|[2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md)|O| 정규표현식과 replace메서드 활용방법|
+|[2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md)|X| |
+|[2022 KAKAO BLIND RECRUITMENT > 신고 결과 받기](./level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/problem.md)|X| |
 
 ### 📝Level 2
-- [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)
-- [x] [찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)
-- [x] [2017 팁스타운 > 짝지어 제거하기](./level2/짝지어%20제거하기/problem.md)
-- [x] [JadenCase 문자열 만들기](./level2/JadenCase%20문자열%20만들기/problem.md)
-- [x] [최댓값과 최솟값](./level2/최댓값과%20최솟값/problem.md)
+|문제|복습 필요 여부|비고|
+|:---|:---:|:---|
+|[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
+|[찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)| | |
+|[2017 팁스타운 > 짝지어 제거하기](./level2/짝지어%20제거하기/problem.md)| | |
+|[JadenCase 문자열 만들기](./level2/JadenCase%20문자열%20만들기/problem.md)| | |
+|[최댓값과 최솟값](./level2/최댓값과%20최솟값/problem.md)| | |
