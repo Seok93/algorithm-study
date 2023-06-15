@@ -73,6 +73,7 @@
 - [x] [숫자 짝궁](./level1/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%B6%81/problem.md)
 - [x] [과일 장수](./level1/%EA%B3%BC%EC%9D%BC%EC%9E%A5%EC%88%98/problem.md)
 - [x] [푸드 파이트 대회](./level1/%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C/problem.md) 
+- [x] [바탕화면 정리](./level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC/)
 - [x] [2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)
 - [x] [2019 KAKAO 개발자 겨울 인턴쉽](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)
 - [x] [2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md) 
