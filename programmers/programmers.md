@@ -77,13 +77,14 @@
 |[푸드 파이트 대회](./level1/%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C/problem.md)|X| |
 |[바탕화면 정리](./level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC/problem.md)|O|2차원 배열의 좌표 이동 계산 방법|
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)|X| |
-|[2019 KAKAO 개발자 겨울 인턴쉽](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)|X| |
+|[2019 KAKAO 개발자 겨울 인턴쉽 크레인 인형뽑기 게임](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)|X| |
+|[2019 KAKAO BLIND RECRUITMENT > 실패율](./level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8/problem.md)|X| |
 |[2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md)|O| 정규표현식과 replace메서드 활용방법|
 |[2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md)|X| |
 |[2022 KAKAO BLIND RECRUITMENT > 신고 결과 받기](./level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/problem.md)|X| |
 
 ### 📝Level 2
-|문제|복습 필요 여부|비고|
+|문제|다시 풀어보고 싶은 문제|비고|
 |:---|:---:|:---|
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)| | |
