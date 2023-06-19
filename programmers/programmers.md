@@ -64,6 +64,7 @@
 |문제|다시 풀어보고 싶은 문제|비고|
 |:---|:---:|:---|
 |[추억 점수](./level1/추억점수/problem.md)|X| |
+|[덧칠하기](./level1/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0/problem.md)|X| |
 |[카드 뭉치](./level1/카드뭉치/problem.md)|X| |
 |[둘만의 암호](./level1/둘만의암호/problem.md)|O| 특정 범위 안에서 순환하여 문자 등을 변환할 때 사용할 수 있는 방법|
 |[문자열 나누기](./level1//%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%98%EB%88%84%EA%B8%B0/problem.md)|X| |
