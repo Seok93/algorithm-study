@@ -63,9 +63,9 @@
 ### 📝Level 1
 |문제|다시 풀어보고 싶은 문제|비고|
 |:---|:---:|:---|
+|[추억 점수](./level1/추억점수/problem.md)|X| |
 |[카드 뭉치](./level1/카드뭉치/problem.md)|X| |
 |[둘만의 암호](./level1/둘만의암호/problem.md)|O| 특정 범위 안에서 순환하여 문자 등을 변환할 때 사용할 수 있는 방법|
-|[개인정보 수집 유효기간](./level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A7%91%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/problem.md)|O| |
 |[문자열 나누기](./level1//%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%98%EB%88%84%EA%B8%B0/problem.md)|X| |
 |[기사단원의 무기](./level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0/problem.md)|O| 약수를 찾는 다양한 방법|
 |[햄버거 만들기](./level1/%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0/problem.md)|O| Stack에서 특정 순서로 데이터가 쌓였는지 확인하는 방법 |
@@ -77,12 +77,13 @@
 |[푸드 파이트 대회](./level1/%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C/problem.md)|X| |
 |[바탕화면 정리](./level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC/problem.md)|O|2차원 배열의 좌표 이동 계산 방법|
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)|X| |
-|[2019 KAKAO 개발자 겨울 인턴쉽 크레인 인형뽑기 게임](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)|X| |
+|[2019 KAKAO 개발자 겨울 인턴쉽 > 크레인 인형뽑기 게임](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)|X| |
 |[2019 KAKAO BLIND RECRUITMENT > 실패율](./level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8/problem.md)|X| |
 |[2021 KAKAO 채용연계형 인턴쉽 > 숫자 문자열과 영단어](./level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4/problem.md)|X| |
 |[2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md)|O| 정규표현식과 replace메서드 활용방법|
 |[2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md)|X| |
 |[2022 KAKAO BLIND RECRUITMENT > 신고 결과 받기](./level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/problem.md)|X| |
+|[2023 KAKAO BLIND RECRUITMENT > 개인정보 수집 유효기간](./level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A7%91%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/problem.md)|O| |
 
 ### 📝Level 2
 |문제|다시 풀어보고 싶은 문제|비고|
