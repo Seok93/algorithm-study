@@ -71,6 +71,7 @@
 |[바탕화면 정리](./level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC/problem.md)|O|2차원 배열의 좌표 이동 계산 방법|
 |[체육복](./level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5/problem.md)|X||
 |[모의고사](./level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/problem.md)|X||
+|[완주하지 못한 선수](./level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98/problem.md)|X||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)|X| |
 |[2019 KAKAO 개발자 겨울 인턴쉽 > 크레인 인형뽑기 게임](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)|X| |
 |[2019 KAKAO BLIND RECRUITMENT > 실패율](./level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8/problem.md)|X| |
