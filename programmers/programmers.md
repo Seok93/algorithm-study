@@ -86,6 +86,6 @@
 |:---|:---:|:---|
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)| | |
-|[2017 팁스타운 > 짝지어 제거하기](./level2/짝지어%20제거하기/problem.md)| | |
+|[2017 팁스타운 > 짝지어 제거하기](./level2/짝지어%20제거하기/problem.md)|X| |
 |[JadenCase 문자열 만들기](./level2/JadenCase%20문자열%20만들기/problem.md)| | |
 |[최댓값과 최솟값](./level2/최댓값과%20최솟값/problem.md)| | |
