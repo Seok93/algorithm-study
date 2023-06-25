@@ -13,7 +13,7 @@
 - [x] Level2 [프린터](./stack_queue/프린터/problem.md)
 - [x] Level2 [다리를 지나는 트럭](./stack_queue/다리를지나는트럭/problem.md)
 - [ ] Level2 [주식가격]()
-- [x] Level2 [올바른 괄호](./stack_queue/올바른괄호/problem.md)
+- [x] Level2 [올바른 괄호](./level2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8/problem.md)
 
 ### 📝힙(Heap)
 - [ ] Level2 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
@@ -84,8 +84,9 @@
 ### 📝Level 2
 |문제|다시 풀어보고 싶은 문제|비고|
 |:---|:---:|:---|
+|[2017 팁스타운 > 짝지어 제거하기](./level2/짝지어%20제거하기/problem.md)|X| |
+|[올바른 괄호](./level2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)| | |
-|[2017 팁스타운 > 짝지어 제거하기](./level2/짝지어%20제거하기/problem.md)|X| |
 |[JadenCase 문자열 만들기](./level2/JadenCase%20문자열%20만들기/problem.md)| | |
 |[최댓값과 최솟값](./level2/최댓값과%20최솟값/problem.md)| | |
