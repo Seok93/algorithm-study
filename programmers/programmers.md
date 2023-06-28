@@ -86,10 +86,10 @@
 |:---|:---:|:---|
 |[2017 팁스타운 > 짝지어 제거하기](./level2/짝지어%20제거하기/problem.md)|X| |
 |[올바른 괄호](./level2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8/problem.md)|X| |
-|[이진 변환 반복하기](./level2/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/problem.md)|X| |
+|[월간 코드 챌린지 시즌1 > 이진 변환 반복하기](./level2/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/problem.md)|X| |
 |[영어 끝말잇기](./level2/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0/problem.md)|X| |
 |[카펫](./level2/%EC%B9%B4%ED%8E%AB/problem.md)|X| |
-|[예상 대진표](./level2/%EC%98%88%EC%83%81%EB%8C%80%EC%A7%84%ED%91%9C/problem.md)|X| |
+|[2017 팁스타운 > 예상 대진표](./level2/%EC%98%88%EC%83%81%EB%8C%80%EC%A7%84%ED%91%9C/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)| | |
 |[JadenCase 문자열 만들기](./level2/JadenCase%20문자열%20만들기/problem.md)| | |
