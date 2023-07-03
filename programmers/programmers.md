@@ -91,6 +91,7 @@
 |[카펫](./level2/%EC%B9%B4%ED%8E%AB/problem.md)|X| |
 |[2017 팁스타운 > 예상 대진표](./level2/%EC%98%88%EC%83%81%EB%8C%80%EC%A7%84%ED%91%9C/problem.md)|X| |
 |[Summer/Winter Coding 2018 > 점프와 순간이동](./level2/%EC%A0%90%ED%94%84%EC%99%80%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99/problem.md)|O|진법변환과 각 자리의 숫자가 의미하는 내용이 무엇인지 이해할 수 있음 |
+|[귤 고르기](./level2/%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)| | |
 |[JadenCase 문자열 만들기](./level2/JadenCase%20문자열%20만들기/problem.md)| | |
