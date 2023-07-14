@@ -4,7 +4,7 @@
 - [x] Level1 [폰켓몬](./hash/폰켓몬/problem.md)
 - [x] Level1 [완주하지 못한 선수](./hash/완주하지못한선수/problem.md)
 - [x] Level2 [전화번호목록](./hash/전화번호%20목록/problem.md)
-- [x] Level2 [위장](./hash/위장/problem.md)
+- [x] Level2 [의상](./level2/의상/problem.md)
 - [x] Level3 [베스트앨범](./hash/베스트앨범/problem.md)
 
 ### 📝스택/큐 (Stack / Queue)
@@ -93,6 +93,7 @@
 |[Summer/Winter Coding 2018 > 점프와 순간이동](./level2/%EC%A0%90%ED%94%84%EC%99%80%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99/problem.md)|O|진법변환과 각 자리의 숫자가 의미하는 내용이 무엇인지 이해할 수 있음 |
 |[귤 고르기](./level2/%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0/problem.md)|X| |
 |[괄호 회전하기](./level2/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/problem.md)|X| |
+|[의상](./level2/의상/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[찾아라 프로그래밍 마에스터 > 게임 맵 최단거리](./level2/게임%20맵%20최단거리/problem.md)| | |
