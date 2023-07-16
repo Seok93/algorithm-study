@@ -94,6 +94,7 @@
 |[귤 고르기](./level2/%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0/problem.md)|X| |
 |[괄호 회전하기](./level2/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/problem.md)|X| |
 |[의상](./level2/의상/problem.md)|X| |
+|[할인 행사](./level2/할인행사/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[2019 카카오 개발자 겨울 인턴십 > 튜플](./level2/튜플/problem.md)|O|다양한 파싱 방법과 Set 객체의 특징을 이용하여 중복데이터 제거, 저장된 순서를 활용하는 방법 |
