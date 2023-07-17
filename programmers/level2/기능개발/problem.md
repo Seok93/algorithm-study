@@ -68,14 +68,12 @@ function solution(progresses, speeds) {
 function solution(progresses, speeds) {
     let answer = [];
     let i = 0;
-    let t = 0;
-    let numOfReleases = 0;
 
     while (progresses.length > i) {
-        numOfReleases = 1;
-        t = Math.ceil((100 - progresses[i]) / speeds[i++]);
-
-        while (progresses[i] + speeds[i] * t > 99) {
+        let numOfReleases = 0;
+        let t = Math.ceil((100 - progresses[i]) / speeds[i]);
+        
+        while (progresses[i] + speeds[i] * t >= 100) {
             numOfReleases++;
             i++;
         }
