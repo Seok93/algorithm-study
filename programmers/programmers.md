@@ -10,7 +10,7 @@
 ### 📝스택/큐 (Stack / Queue)
 - [x] Level1 [같은 숫자는 싫어](./stack_queue/같은숫자는싫어/problem.md)
 - [x] Level2 [기능개발](./level2/기능개발/problem.md)
-- [x] Level2 [프린터](./stack_queue/프린터/problem.md)
+- [x] Level2 [프로세스](./level2/프로세스/problem.md)
 - [x] Level2 [다리를 지나는 트럭](./stack_queue/다리를지나는트럭/problem.md)
 - [ ] Level2 [주식가격]()
 - [x] Level2 [올바른 괄호](./level2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8/problem.md)
@@ -96,6 +96,7 @@
 |[의상](./level2/의상/problem.md)|X| |
 |[할인 행사](./level2/할인행사/problem.md)|X| |
 |[기능 개발](./level2/기능개발/problem.md)|X| |
+|[프로세스](./level2/프로세스/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/뉴스%20클러스터링/problem.md)| | |
 |[2019 카카오 개발자 겨울 인턴십 > 튜플](./level2/튜플/problem.md)|O|다양한 파싱 방법과 Set 객체의 특징을 이용하여 중복데이터 제거, 저장된 순서를 활용하는 방법 |
