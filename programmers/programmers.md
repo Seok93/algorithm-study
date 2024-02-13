@@ -81,6 +81,8 @@
 |[2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기](./level1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/problem.md)|X| |
 |[2022 KAKAO BLIND RECRUITMENT > 신고 결과 받기](./level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/problem.md)|X| |
 |[2023 KAKAO BLIND RECRUITMENT > 개인정보 수집 유효기간](./level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A7%91%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/problem.md)|O| |
+|[2024 KAKAO WINTER INTERNSHIP > 가장 많이 받은 선물](./level1/가장%20많이%20받은%20선물/problem.md)|O|2차원 테이블의 좌상우하 기준선을 기준으로 상단 반절만 탐색하는 방법|
+
 ### 📝Level 2
 |문제|다시 풀어보고 싶은 문제|비고|
 |:---|:---:|:---|
