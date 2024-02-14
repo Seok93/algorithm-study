@@ -75,6 +75,7 @@
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 다트게임](./level1/%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/problem.md)|X| |
 |[2019 KAKAO 개발자 겨울 인턴쉽 > 크레인 인형뽑기 게임](./level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/problem.md)|X| |
 |[2019 KAKAO BLIND RECRUITMENT > 실패율](./level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8/problem.md)|X| |
+|[2019 KAKAO BLIND RECRUITMENT > 오픈채팅방](./level1/오픈채팅방/problem.md)|X| |
 |[2020 KAKAO 인턴십 > 키패드 누르기](./level1/키패드%20누르기/problem.md)|X| |
 |[2021 KAKAO 채용연계형 인턴쉽 > 숫자 문자열과 영단어](./level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4/problem.md)|X| |
 |[2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천](./level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/problem.md)|O| 정규표현식과 replace메서드 활용방법|
