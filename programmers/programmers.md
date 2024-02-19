@@ -107,3 +107,4 @@
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/[1차]뉴스클러스터링/problem.md)|O|두 배열의 교집합과 합집합을 구하는 방법 |
 |[2019 카카오 개발자 겨울 인턴십 > 튜플](./level2/튜플/problem.md)|O|다양한 파싱 방법과 Set 객체의 특징을 이용하여 중복데이터 제거, 저장된 순서를 활용하는 방법 |
 |[2021 KAKAO BLIND RECRUITMENT > 메뉴 리뉴얼](./level2/메뉴%20리뉴얼/problem.md)|O|조합을 만드는 방법|
+|[2022 KAKAO BLIND RECRUITMENT > 주차 요금 계산](./level2/주차%20요금%20계산/problem.md)|X||
