@@ -109,3 +109,4 @@
 |[2021 KAKAO BLIND RECRUITMENT > 메뉴 리뉴얼](./level2/메뉴%20리뉴얼/problem.md)|O|조합을 만드는 방법|
 |[2022 KAKAO BLIND RECRUITMENT > k진수에서 소수 개수 구하기](./level2/k진수에서%20소수%20개수%20구하기/problem.md)|X|소수를 구하는 방법: 에라토스테네스의 체|
 |[2022 KAKAO BLIND RECRUITMENT > 주차 요금 계산](./level2/주차%20요금%20계산/problem.md)|X||
+|[2022 KAKAO TECH INTERNSHIP > 두 큐 합 같게 만들기](./level2/두%20큐%20합%20같게%20만들기/problem.md)|O|큐의 길이를 실질적으로 조절하지 않고, 포인터 통해 연산하는 방법 사용. 배열의 shift 연산의 시간복잡도 O(n)이기 때문에 시간초과 발생|
