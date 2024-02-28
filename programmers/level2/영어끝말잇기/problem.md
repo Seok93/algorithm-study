@@ -72,34 +72,36 @@ tank → kick → know → wheel → land → dream → mother → robot → tan
 와 같은 순서로 말을 하게 되며, 1번 사람이 자신의 세 번째 차례에 'r'로 시작하는 단어 대신, n으로 시작하는 now를 말했기 때문에 이때 처음 탈락자가 나오게 됩니다.
 
 ### 📔 나의 알고리즘 순서
-1. 사람들이 말한 순서인 `words` 배열에서 단어를 하나씩 가져온다.
-2. 단어가 이전에 말한 단어에 중복되는가, 앞에 말한 단어의 마지막 스펠링과 현재 말한 단어의 시작 스펠링이 같은가를 확인한다.
+1) 사람들이 말한 순서인 `words` 배열에서 단어를 하나씩 가져온다.
+2) 끝말잇기 규칙을 준수하는가 확인한다.  
+   2-1) 단어가 이전에 말한 단어에 중복되는가 확인한다.  
+   2-2) 이전에 말한 단어의 마지막 스펠링과 현재 말한 단어의 시작 스펠링이 같은가 확인한다.  
+   2-3) 단어가 2자리 이상인가 확인한다.  
 
 ### ✅ 나의 해답코드
 ```javascript
 function solution(n, words) {
-  const spoken = [];
-  let result = [0, 0];
-  let order = 1;
-  let round = 1;
+    const result = [0, 0];
+    const wordSet = new Set();
+    
+    words.some((word, idx, origin) => {
+        const prev = origin[idx - 1];
+        const endChar = prev ? prev[prev.length - 1] : word[0];
+        
+        if(
+            wordSet.has(word)
+            || word.length < 2
+            || word[0] !== endChar
+        ) {
+            result[0] = (idx % n) + 1;
+            result[1] = Math.floor(idx / n) + 1;
+            return true;
+        }
+        wordSet.add(word);
+        return false
+    });
 
-  for (let i = 0; i < words.length; i++) {
-    const prev = words[i - 1];
-    const cur = words[i];
-
-    if (
-      spoken.includes(cur) || 
-      (prev && prev[prev.length - 1] !== cur[0])
-    ) {
-      result = [order, round];
-      break;
-    }
-    spoken.push(cur);
-    order = (order % n) + 1;
-    round = Math.floor((i + 1) / n) + 1;
-  }
-
-  return result;
+    return result;
 }
 ```
 

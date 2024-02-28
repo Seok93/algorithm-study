@@ -1,21 +1,19 @@
 function solution(n, words) {
-  const spoken = [];
-  let result = [0, 0];
-  let order = 1;
-  let round = 1;
+  const result = [0, 0];
+  const wordSet = new Set();
 
-  for (let i = 0; i < words.length; i++) {
-    const prev = words[i - 1];
-    const cur = words[i];
+  words.some((word, idx, origin) => {
+    const prev = origin[idx - 1];
+    const endChar = prev ? prev[prev.length - 1] : word[0];
 
-    if (spoken.includes(cur) || (prev && prev[prev.length - 1] !== cur[0])) {
-      result = [order, round];
-      break;
+    if (wordSet.has(word) || word.length < 2 || word[0] !== endChar) {
+      result[0] = (idx % n) + 1;
+      result[1] = Math.floor(idx / n) + 1;
+      return true;
     }
-    spoken.push(cur);
-    order = (order % n) + 1;
-    round = Math.floor((i + 1) / n) + 1;
-  }
+    wordSet.add(word);
+    return false;
+  });
 
   return result;
 }
