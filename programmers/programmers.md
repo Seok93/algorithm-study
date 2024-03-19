@@ -115,3 +115,8 @@
 |[2022 KAKAO BLIND RECRUITMENT > 주차 요금 계산](./level2/주차%20요금%20계산/problem.md)|X||
 |[2022 KAKAO TECH INTERNSHIP > 두 큐 합 같게 만들기](./level2/두%20큐%20합%20같게%20만들기/problem.md)|O|큐의 길이를 실질적으로 조절하지 않고, 포인터 통해 연산하는 방법 사용. 배열의 shift 연산의 시간복잡도 O(n)이기 때문에 시간초과 발생|
 |[2023KAKAO BLIND RECRUITMENT > 이모티콘 할인행사](./level2/이모티콘%20할인행사/problem.md)|O|조합 만들기 연습|
+
+### 📝Level 2
+|문제|다시 풀어보고 싶은 문제|비고|
+|:---|:---:|:---|
+|[네트워크](./level3/네트워크/problem.md)|X| |
