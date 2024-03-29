@@ -106,6 +106,7 @@
 |[배달](./level2/배달/problem.md)|O|다익스트라문제 : 가중치 최단거리 활용|
 |[전력망 둘로 나누기](./level2/전력망%20둘로%20나누기/problem.md)|O|그래프를 특정 간선을 기준으로 나눠 DFS/BFS로 완전탐색|
 |[미로탈출](./level2/미로탈출/problem.md)|X| |
+|[\[3차\] 압축](./level2/[3차]%20압축/problem.md)|X|LZW 무손실 압축 알고리즘|
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/[1차]뉴스클러스터링/problem.md)|O|두 배열의 교집합과 합집합을 구하는 방법 |
 |[2019 카카오 개발자 겨울 인턴십 > 튜플](./level2/튜플/problem.md)|O|다양한 파싱 방법과 Set 객체의 특징을 이용하여 중복데이터 제거, 저장된 순서를 활용하는 방법 |
@@ -119,7 +120,7 @@
 |[2022 KAKAO TECH INTERNSHIP > 두 큐 합 같게 만들기](./level2/두%20큐%20합%20같게%20만들기/problem.md)|O|큐의 길이를 실질적으로 조절하지 않고, 포인터 통해 연산하는 방법 사용. 배열의 shift 연산의 시간복잡도 O(n)이기 때문에 시간초과 발생|
 |[2023KAKAO BLIND RECRUITMENT > 이모티콘 할인행사](./level2/이모티콘%20할인행사/problem.md)|O|조합 만들기 연습|
 
-### 📝Level 2
+### 📝Level 3
 |문제|다시 풀어보고 싶은 문제|비고|
 |:---|:---:|:---|
 |[네트워크](./level3/네트워크/problem.md)|X| |
