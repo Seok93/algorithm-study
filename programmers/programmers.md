@@ -107,6 +107,7 @@
 |[전력망 둘로 나누기](./level2/전력망%20둘로%20나누기/problem.md)|O|그래프를 특정 간선을 기준으로 나눠 DFS/BFS로 완전탐색|
 |[미로탈출](./level2/미로탈출/problem.md)|X| |
 |[\[3차\] 압축](./level2/[3차]%20압축/problem.md)|X|LZW 무손실 압축 알고리즘|
+|[\[3차\] n진수 게임](./level2/[3차]%20n진수%20게임/problem.md)|X||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/[1차]뉴스클러스터링/problem.md)|O|두 배열의 교집합과 합집합을 구하는 방법 |
 |[2019 카카오 개발자 겨울 인턴십 > 튜플](./level2/튜플/problem.md)|O|다양한 파싱 방법과 Set 객체의 특징을 이용하여 중복데이터 제거, 저장된 순서를 활용하는 방법 |
