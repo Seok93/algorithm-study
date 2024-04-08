@@ -110,6 +110,7 @@
 |[\[3차\] n진수 게임](./level2/[3차]%20n진수%20게임/problem.md)|X||
 |[모음사전](./level2/모음사전/problem.md)|X||
 |[뒤에 있는 큰 수 찾기](./level2/뒤에%20있는%20큰%20수%20찾기/problem.md)|△|뒷 큰수를 찾을 때 스택을 통해 찾을 수 있음|
+|[방문 길이](./level2/방문%20길이/problem.md)|X||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/[1차]뉴스클러스터링/problem.md)|O|두 배열의 교집합과 합집합을 구하는 방법 |
 |[2019 카카오 개발자 겨울 인턴십 > 튜플](./level2/튜플/problem.md)|O|다양한 파싱 방법과 Set 객체의 특징을 이용하여 중복데이터 제거, 저장된 순서를 활용하는 방법 |
