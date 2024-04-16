@@ -115,6 +115,7 @@
 |[땅따먹기](./level2/땅따먹기/problem.md)|O|누적합을 이용한 DP|
 |[롤케이크 자르기](./level2/롤케이크%20자르기/problem.md)|O||
 |[스킬트리](./level2/스킬트리/problem.md)|X||
+|[택배 상자](./level2/택배상자/problem.md)|△||
 |[2018 KAKAO BLIND RECRUITMENT > \[3차\] 파일명 정렬](./level2/[3차]%20파일명%20정렬/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 뉴스 클러스터링](./level2/[1차]뉴스클러스터링/problem.md)|O|두 배열의 교집합과 합집합을 구하는 방법 |
