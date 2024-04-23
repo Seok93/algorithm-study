@@ -119,6 +119,7 @@
 |[숫자 변환하기](./level2/숫자%20변환하기/problem.md)|△||
 |[2xn 타일링](./level2/2xn%20타일링/problem.md)|△||
 |[2개 이하로 다른 비트](./level2/2개%20이하로%20다른%20비트/problem.md)|X||
+|[다리를 지나는 트럭](./level2/다리를%20지나는%20트럭/problem.md)|X||
 |[2018 KAKAO BLIND RECRUITMENT > \[3차\] 파일명 정렬](./level2/[3차]%20파일명%20정렬/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 프렌즈 4블록](./level2/[1차]%20프렌즈%204블록/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
