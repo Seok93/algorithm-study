@@ -120,6 +120,7 @@
 |[2xn 타일링](./level2/2xn%20타일링/problem.md)|△||
 |[2개 이하로 다른 비트](./level2/2개%20이하로%20다른%20비트/problem.md)|X||
 |[다리를 지나는 트럭](./level2/다리를%20지나는%20트럭/problem.md)|X||
+|[가장 큰 수](./level2/가장%20큰%20수/problem.md)|X|문자열 사전 정렬 방식을 통해 숫자를 이어 붙여 가장 큰 수를 찾는 방법|
 |[2018 KAKAO BLIND RECRUITMENT > \[3차\] 파일명 정렬](./level2/[3차]%20파일명%20정렬/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 프렌즈 4블록](./level2/[1차]%20프렌즈%204블록/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
