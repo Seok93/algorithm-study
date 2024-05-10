@@ -126,6 +126,7 @@
 |[124 나라의 숫자](./level2/124%20나라의%20숫자/problem.md)|X||
 |[마법의 엘레베이터](./level2/마법의%20엘리베이터/problem.md)|△||
 |[삼각 달팽이](./level2/삼각%20달팽이/problem.md)|△||
+|[시소 짝꿍](./level2/시소%20짝궁/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[3차\] 파일명 정렬](./level2/[3차]%20파일명%20정렬/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 프렌즈 4블록](./level2/[1차]%20프렌즈%204블록/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 캐시](./level2/[1차]캐시/problem.md)|X| |
