@@ -128,6 +128,7 @@
 |[삼각 달팽이](./level2/삼각%20달팽이/problem.md)|△||
 |[시소 짝꿍](./level2/시소%20짝궁/problem.md)|O||
 |[호텔 대실](./level2/호텔%20대실/problem.md)|O|구간합|
+|[숫자 카드 나누기](./level2/숫자%20카드%20나누기/problem.md)|△|유클리드호제법|
 |[2018 KAKAO BLIND RECRUITMENT > \[3차\] 방금그곡](./level2/[3차]%20방금그곡/problem.md)|O|토큰 치환, 문제 설명에 없는 테스트케이스가 포함되어 있음|
 |[2018 KAKAO BLIND RECRUITMENT > \[3차\] 파일명 정렬](./level2/[3차]%20파일명%20정렬/problem.md)|O||
 |[2018 KAKAO BLIND RECRUITMENT > \[1차\] 프렌즈 4블록](./level2/[1차]%20프렌즈%204블록/problem.md)|O||
